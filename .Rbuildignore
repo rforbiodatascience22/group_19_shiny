@@ -10,3 +10,6 @@ $run_dev.*
 ^CDappgroup19\.Rcheck$
 ^CDappgroup19.*\.tar\.gz$
 ^CDappgroup19.*\.tgz$
+^LICENSE\.md$
+^README\.Rmd$
+^CODE_OF_CONDUCT\.md$

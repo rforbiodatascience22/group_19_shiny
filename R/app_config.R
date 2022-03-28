@@ -9,7 +9,7 @@
 #'
 #' @noRd
 app_sys <- function(...) {
-  system.file(..., package = "CDappgroup19")
+  system.file(..., package = "myshinyapp")
 }
 
 
