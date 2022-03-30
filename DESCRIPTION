@@ -1,4 +1,4 @@
-Package: myshinyapp
+Package: myshinyapps
 Title: PKG_TITLE
 Version: 0.0.0.9000
 Authors@R: person('Søren', 'ErSej', email = 'Søren@GMAIL.COM', role = c('cre', 'aut'))
