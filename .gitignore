@@ -6,3 +6,9 @@
 myshinyapp.Rcheck/
 myshinyapp*.tar.gz
 myshinyapp*.tgz
+<<<<<<< HEAD
+=======
+CDappgroup19.Rcheck/
+CDappgroup19*.tar.gz
+CDappgroup19*.tgz
+>>>>>>> ef333355f25342eb902320eef03953c650a2e63f
