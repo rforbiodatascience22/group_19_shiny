@@ -1,22 +1,18 @@
 Package: CDappgroup19
 Title: PKG_TITLE
 Version: 0.0.0.9000
-Authors@R: person('Søren', 'ErSej', email = 'Søren@GMAIL.COM', role = c('cre', 'aut'))
+Authors@R: 
+    person("Søren", "ErSej", , "Søren@GMAIL.COM", role = c("cre", "aut"))
 Description: PKG_DESC.
 License: MIT + file LICENSE
 Imports: 
     config (>= 0.3.1),
     golem (>= 0.3.2),
     shiny (>= 1.7.1)
+Author@R:c(person(given = "Mikkel", family = "ACakeLover", role =
+    c("aut"), # There must be a "cre", but there can only be one email =
+    "liverpool@gmail.com"), person(given = "Lasse", family =
+    "Vibenhusrundel", role = "aut", email = "adgjs@gmail.com"))
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
-Author@R:
-  c(person(given = "Mikkel",
-           family = "ACakeLover",
-           role = c("aut"), # There must be a "cre", but there can only be one
-           email = "liverpool@gmail.com"), 
-    person(given = "Lasse",
-           family = "Vibenhusrundel",
-           role = "aut",
-           email = "adgjs@gmail.com"))
+RoxygenNote: 7.1.2

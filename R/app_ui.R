@@ -10,7 +10,7 @@ app_ui <- function(request) {
     golem_add_external_resources(),
     # Your application UI logic
     fluidPage(
-      h1("CDappgroup19")
+      h1("CDappgroup19"),
       tabsetPanel(
         tabPanel(title = "panel1",
                  "module1"),
