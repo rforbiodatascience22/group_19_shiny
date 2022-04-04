@@ -6,10 +6,12 @@ Authors@R:
 Description: PKG_DESC.
 License: MIT + file LICENSE
 Imports: 
+    centralDogma,
     config (>= 0.3.1),
+    ggplot2,
     golem (>= 0.3.2),
     shiny (>= 1.7.1)
-Author@R:c(person(given = "Mikkel", family = "ACakeLover", role =
+Author@R: c(person(given = "Mikkel", family = "ACakeLover", role =
     c("aut"), # There must be a "cre", but there can only be one email =
     "liverpool@gmail.com"), person(given = "Lasse", family =
     "Vibenhusrundel", role = "aut", email = "adgjs@gmail.com"))

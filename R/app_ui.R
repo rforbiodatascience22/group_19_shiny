@@ -4,22 +4,13 @@
 #'     DO NOT REMOVE.
 #' @import shiny
 #' @noRd
-app_ui <- function(request) {
-  tagList(
-    # Leave this function for adding external resources
-    golem_add_external_resources(),
-    # Your application UI logic
-    fluidPage(
-      h1("CDappgroup19"),
-      tabsetPanel(
-        tabPanel(title = "panel1",
-                 "module1"),
-        tabPanel(title = "panel2",
-                 "module2")
-      )
+app_ui <- function(id){
+    ns <- NS(id)
+    tagList(
+
     )
-  )
-}
+  }
+
 
 #' Add external Resources to the Application
 #'
